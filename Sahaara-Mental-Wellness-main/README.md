@@ -101,8 +101,4 @@ Sahaara is built with a modern, scalable, and cloud-native architecture. The use
 
 ---
 
-### ✍️ Author
 
-* **Vaibhav Pant** - *Developer* - **https://github.com/VAIBHAV4048**
-
----
