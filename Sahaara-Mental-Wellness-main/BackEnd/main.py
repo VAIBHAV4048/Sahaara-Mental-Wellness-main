@@ -7,7 +7,10 @@ from chat import router as chat_router # <--- CHANGE/ADD THIS LINE
 app = FastAPI()
 
 # Your origins list and CORSMiddleware setup
-origins = ["*"]
+origins = [
+    "https://sahaara-mentalwellness.netlify.app"
+]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
